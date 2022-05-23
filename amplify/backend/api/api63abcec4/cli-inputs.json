@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/items": {
+      "name": "/items",
+      "lambdaFunction": "csfindermock",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

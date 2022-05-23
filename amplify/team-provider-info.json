@@ -10,6 +10,14 @@
       "StackName": "amplify-csfindermock-dev-161230",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:859080433733:stack/amplify-csfindermock-dev-161230/b6799230-da67-11ec-83ec-0e2ff2c6dd1b",
       "AmplifyAppId": "d3h1cm0ghoh41a"
+    },
+    "categories": {
+      "function": {
+        "csfindermock": {
+          "deploymentBucketName": "amplify-csfindermock-dev-161230-deployment",
+          "s3Key": "amplify-builds/csfindermock-495343306641642b634d-build.zip"
+        }
+      }
     }
   }
 }

@@ -3,7 +3,7 @@ import awsconfig from './aws-exports';
 
 Amplify.configure(awsconfig);
 
-const apiName = 'api55fd0360';
+const apiName = 'api63abcec4';
 const path = '/items'; 
 
 API
