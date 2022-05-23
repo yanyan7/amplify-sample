@@ -15,7 +15,7 @@
       "function": {
         "csfindermock": {
           "deploymentBucketName": "amplify-csfindermock-dev-161230-deployment",
-          "s3Key": "amplify-builds/csfindermock-495343306641642b634d-build.zip"
+          "s3Key": "amplify-builds/csfindermock-4f396a6e334943594339-build.zip"
         }
       }
     }
